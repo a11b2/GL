@@ -28,4 +28,4 @@ jobs:
         env: 
           GLADOS_COOKIE: "${{ secrets.F888 }}"
           PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
-- uses: https://gitcode.com/gh_mirrors/ke/keepalive-workflow@v2.0.1
+     - uses: https://gitcode.com/gh_mirrors/ke/keepalive-workflow@v2.0.1
